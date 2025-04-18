@@ -11,8 +11,7 @@ No `frontend`, temos a interface visual do site. No `backend`, temos um pequeno 
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/robsujunior/Processo-Seletivo-Next.git
 ```
 
 ---
